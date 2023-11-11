@@ -17,7 +17,7 @@ favicon: favicon.ico
 
 repository: wanjul/wanjul.github.io
 github_url: https://github.com/wanjul
-url: http://wanjul.github.io
+url: wanjul.github.io
 enforce_ssl: wanjul.github.io
 
 ## Gem
